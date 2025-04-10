@@ -15,7 +15,7 @@ public class CopyFiles {
 			fileWriter.write(LocalDateTime.now().toString() + "\n");
 			for (int i = 0; i < eingabe.size(); i++) {
 				Punkt punkt = eingabe.get(i);
-				fileWriter.write(punkt.toString() + "\n");
+				fileWriter.write(punkt.toString() + " Fläche: " + punkt.getFlaeche() + " Umfang: " + punkt.getUmfang() + "\n");
 			}
 		} catch (IOException e) {
 			System.out.println("Fehler beim Schreiben der Datei: " + e.getMessage());

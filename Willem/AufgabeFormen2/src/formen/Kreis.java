@@ -37,7 +37,7 @@ public class Kreis extends Punkt{
 	
 	@Override
 	public String toString() {
-		return "Kreis: " +  x + " " + y + " " + this.radius;
+		return "Kreis: " + "X: " + x + " " + "Y: " + y + " " + "Radius: " + this.radius;
 	}
 
 }

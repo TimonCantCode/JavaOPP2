@@ -10,6 +10,7 @@ public class TestClass {
 
 	public TestClass() {
 //		testFormen();
+//		getTestDaten();
 		
 //		gebeDatenAus(testObj);
 //		gebeDatenAus2(testObj);
@@ -32,6 +33,11 @@ public class TestClass {
 		System.out.println(kreis.getUmfang() == 2 * Math.PI * 5);
 	}
 	
+	
+	/**
+	 * this yee yee ahh class creates 5 different formen objects and returns them as a ArrayList
+	 * @return Arraylist
+	 */
 	public static ArrayList<Punkt> getTestDaten(){
 		ArrayList<Punkt> testObj = new ArrayList<>();
 		testObj.add(new Quadrat(1, 1, 2.5));

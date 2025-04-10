@@ -38,7 +38,7 @@ public class Rechteck extends Quadrat {
 	
 	@Override
 	public String toString() {
-		return "Rechteck: " +  x + " " + y + " " + this.deltax + " " + this.deltay;
+		return "Rechteck: " + "X: " + x + " Y: " + y + " deltaX: " + this.deltax +  " deltaY: " + this.deltay;
 	}
 
 }

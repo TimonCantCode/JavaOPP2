@@ -36,7 +36,7 @@ public class Quadrat extends Punkt {
 	
 	@Override
 	public String toString() {
-		return "Quadrat: " +  x + " " + y + " " + this.deltax;
+		return "Quadrat: " + "X: " + x + " " + "Y: " + y + " " + "deltaX: " + this.deltax;
 	}
 
 

@@ -1,14 +1,21 @@
 -----------------------------
-2025-04-10T17:01:13.623588500
-Quadrat: 1.0 1.0 2.5
-Rechteck: 1.0 2.0 5.5 8.7
-Rechteck: 2.0 1.0 2.8 12.2
-Kreis: 1.0 3.0 7.0
-Kreis: 3.0 4.0 9.0
+2025-04-10T17:15:59.653252400
+Quadrat: X: 1.0 Y: 1.0 deltaX: 2.5Fläche:25.0Umfang:20.0
+Rechteck: X: 1.0 Y: 2.0 deltaX: 5.5 deltaY: 8.7Fläche:191.39999999999998Umfang:56.8
+Rechteck: X: 2.0 Y: 1.0 deltaX: 2.8 deltaY: 12.2Fläche:136.64Umfang:60.0
+Kreis: X: 1.0 Y: 3.0 Radius: 7.0Fläche:153.93804002589985Umfang:43.982297150257104
+Kreis: X: 3.0 Y: 4.0 Radius: 9.0Fläche:254.46900494077323Umfang:56.548667764616276
 -----------------------------
-2025-04-10T17:01:24.034383800
-Quadrat: 1.0 1.0 2.5
-Rechteck: 1.0 2.0 5.5 8.7
-Rechteck: 2.0 1.0 2.8 12.2
-Kreis: 1.0 3.0 7.0
-Kreis: 3.0 4.0 9.0
+2025-04-10T17:16:13.676515
+Quadrat: X: 1.0 Y: 1.0 deltaX: 2.5 Fläche:25.0 Umfang:20.0
+Rechteck: X: 1.0 Y: 2.0 deltaX: 5.5 deltaY: 8.7 Fläche:191.39999999999998 Umfang:56.8
+Rechteck: X: 2.0 Y: 1.0 deltaX: 2.8 deltaY: 12.2 Fläche:136.64 Umfang:60.0
+Kreis: X: 1.0 Y: 3.0 Radius: 7.0 Fläche:153.93804002589985 Umfang:43.982297150257104
+Kreis: X: 3.0 Y: 4.0 Radius: 9.0 Fläche:254.46900494077323 Umfang:56.548667764616276
+-----------------------------
+2025-04-10T17:16:31.730724900
+Quadrat: X: 1.0 Y: 1.0 deltaX: 2.5 Fläche: 25.0 Umfang: 20.0
+Rechteck: X: 1.0 Y: 2.0 deltaX: 5.5 deltaY: 8.7 Fläche: 191.39999999999998 Umfang: 56.8
+Rechteck: X: 2.0 Y: 1.0 deltaX: 2.8 deltaY: 12.2 Fläche: 136.64 Umfang: 60.0
+Kreis: X: 1.0 Y: 3.0 Radius: 7.0 Fläche: 153.93804002589985 Umfang: 43.982297150257104
+Kreis: X: 3.0 Y: 4.0 Radius: 9.0 Fläche: 254.46900494077323 Umfang: 56.548667764616276
