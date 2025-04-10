@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaOPP2.iml" filepath="$PROJECT_DIR$/JavaOPP2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Leon.iml" filepath="$PROJECT_DIR$/.idea/Leon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Transferaufgaben/Transferaufgaben.iml" filepath="$PROJECT_DIR$/Transferaufgaben/Transferaufgaben.iml" />
     </modules>
   </component>
 </project>
