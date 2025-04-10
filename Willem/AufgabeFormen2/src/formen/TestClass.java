@@ -10,14 +10,9 @@ public class TestClass {
 
 	public TestClass() {
 //		testFormen();
-		ArrayList<Punkt> testObj = new ArrayList<>();
-		testObj.add(new Quadrat(1, 1, 2.5));
-		testObj.add(new Rechteck(2, 1, 5.5, 8.7));
-		testObj.add(new Rechteck(1, 2, 2.8, 12.2));
-		testObj.add(new Kreis(1, 3, 7));
-		testObj.add(new Kreis(3, 4, 9));
+		
 //		gebeDatenAus(testObj);
-		gebeDatenAus2(testObj);
+//		gebeDatenAus2(testObj);
 
 	}
 
@@ -35,6 +30,16 @@ public class TestClass {
 		Kreis kreis = new Kreis(1, 1, 5.0);
 		System.out.println(kreis.getFlaeche() == Math.PI * 5 * 5);
 		System.out.println(kreis.getUmfang() == 2 * Math.PI * 5);
+	}
+	
+	public static ArrayList<Punkt> getTestDaten(){
+		ArrayList<Punkt> testObj = new ArrayList<>();
+		testObj.add(new Quadrat(1, 1, 2.5));
+		testObj.add(new Rechteck(2, 1, 5.5, 8.7));
+		testObj.add(new Rechteck(1, 2, 2.8, 12.2));
+		testObj.add(new Kreis(1, 3, 7));
+		testObj.add(new Kreis(3, 4, 9));
+		return testObj;
 	}
 
 	/**
