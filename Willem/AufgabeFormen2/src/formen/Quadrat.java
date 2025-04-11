@@ -6,6 +6,7 @@ package formen;
  */
 public class Quadrat extends Punkt {
 	
+	private static final long serialVersionUID = 3289250931201297340L;
 	double deltax;
 	
 	/**

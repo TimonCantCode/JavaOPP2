@@ -1,10 +1,14 @@
 package formen;
 
+import java.io.Serializable;
 
 /**
  * This abstract Class provides two fields x and y for the subclasses
  */
-abstract public class Punkt implements Comparable<Punkt> {
+abstract public class Punkt implements Comparable<Punkt>, Serializable {
+	
+	private static final long serialVersionUID = 179254701979345189L;
+	
 	double x;
 	double y;
 	

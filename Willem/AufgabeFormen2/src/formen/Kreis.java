@@ -5,6 +5,7 @@ package formen;
  */
 public class Kreis extends Punkt{
 	
+	private static final long serialVersionUID = -1885442533784312954L;
 	double radius;
 	
 	/**

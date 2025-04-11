@@ -19,3 +19,10 @@ Rechteck: X: 1.0 Y: 2.0 deltaX: 5.5 deltaY: 8.7 Fläche: 191.39999999999998 Umfa
 Rechteck: X: 2.0 Y: 1.0 deltaX: 2.8 deltaY: 12.2 Fläche: 136.64 Umfang: 60.0
 Kreis: X: 1.0 Y: 3.0 Radius: 7.0 Fläche: 153.93804002589985 Umfang: 43.982297150257104
 Kreis: X: 3.0 Y: 4.0 Radius: 9.0 Fläche: 254.46900494077323 Umfang: 56.548667764616276
+-----------------------------
+2025-04-10T17:30:25.434979700
+Quadrat: X: 1.0 Y: 1.0 deltaX: 2.5 Fläche: 25.0 Umfang: 20.0
+Rechteck: X: 1.0 Y: 2.0 deltaX: 5.5 deltaY: 8.7 Fläche: 191.39999999999998 Umfang: 56.8
+Rechteck: X: 2.0 Y: 1.0 deltaX: 2.8 deltaY: 12.2 Fläche: 136.64 Umfang: 60.0
+Kreis: X: 1.0 Y: 3.0 Radius: 7.0 Fläche: 153.93804002589985 Umfang: 43.982297150257104
+Kreis: X: 3.0 Y: 4.0 Radius: 9.0 Fläche: 254.46900494077323 Umfang: 56.548667764616276

@@ -5,6 +5,7 @@ package formen;
  */
 public class Rechteck extends Quadrat {
 	
+	private static final long serialVersionUID = -482822568168189621L;
 	double deltay;
 	
 	/**
